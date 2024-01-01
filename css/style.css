@@ -189,6 +189,7 @@ h1 {
 
 .hero-title {
   max-width: 496px;
+  align-self: center;
 }
 
 .hero-button:hover {
@@ -345,8 +346,6 @@ h1 {
 }
 
 .container-footer {
-  /* display: flex; 
-  flex-direction: column; */
   padding: 102px 1020px 100px 0;
   gap: 18px;
 }
